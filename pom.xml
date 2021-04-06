@@ -15,6 +15,9 @@
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
+		<sonar.projectKey>Assignment5.EmployeeRest</sonar.projectKey>
+		<sonar.host.url>http://ip172-18-0-18-c1m9mbpbqvp0009gjdn0-9000.direct.labs.play-with-docker.com</sonar.host.url>
+		<sonar.login>800aa45a9e2e26578a650574d6ddea48fa932dea</sonar.login>
 		<java.version>11</java.version>
 	</properties>
 
